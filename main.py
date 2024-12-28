@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from random_word import RandomWords
 from steamid import SteamID
 import random
 import string

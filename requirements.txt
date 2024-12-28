@@ -1,0 +1,3 @@
+steamid
+requests
+bs4
